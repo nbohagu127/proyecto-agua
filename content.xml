@@ -1,0 +1,1861 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>base</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260512201921BKN0KO</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260512201921J7GYIW</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>4.0.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Guardianes del agua</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Noelia Bohórquez Aguilar</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Situación de Aprendizaje (SdA) titulada &apos;Guardianes del Agua&apos;, diseñada para el alumnado de 3º de Educación Primaria en el área de Conocimiento del Medio Natural, Social y Cultural.
+
+Este recurso educativo abierto (REA) tiene como objetivo principal concienciar sobre el uso responsable del agua como bien común y patrimonio natural, integrando el desarrollo de la competencia digital (CDD). A través de una metodología activa basada en proyectos, el alumnado desarrollará procesos de investigación, curación de contenidos y creación de productos multimedia.
+
+La propuesta está alineada con la LOMLOE y la Orden de 30 de mayo de 2023 de la Junta de Andalucía, vinculando tareas de aprendizaje con los criterios de evaluación 1.1.a, 4.1.a y 5.3.a. El diseño sigue las pautas DUA (Diseño Universal para el Aprendizaje) para garantizar la inclusión y la accesibilidad, utilizando herramientas como Padlet y Canva para fomentar la colaboración y el bienestar emocional en el aula.</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>base</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1778608120637</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mp2xcovz-s676ngzve</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Inicio: Misión Guardianes del Agua</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio: Misión Guardianes del Agua</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Inicio: Misión Guardianes del Agua</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2xcovz-s676ngzve</odePageId>
+      <odeBlockId>block-1778352420322-vkvppr5as</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcovz-s676ngzve</odePageId>
+          <odeBlockId>block-1778352420322-vkvppr5as</odeBlockId>
+          <odeIdeviceId>idevice-1778352420319-fd6lpqpe0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¡Hola, equipo! Bienvenidos a la misión <strong>Guardianes del Agua</strong>. En esta aventura digital vamos a aprender por qué el agua es un tesoro de la naturaleza y cómo podemos protegerla. Usaremos herramientas como Padlet y Canva para crear carteles alucinantes y salvar el planeta. ¿Estáis listos?</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778352420319-fd6lpqpe0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¡Hola, equipo! Bienvenidos a la misión <strong>Guardianes del Agua</strong>. En esta aventura digital vamos a aprender por qué el agua es un tesoro de la naturaleza y cómo podemos protegerla. Usaremos herramientas como Padlet y Canva para crear carteles alucinantes y salvar el planeta. ¿Estáis listos?</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2xcow4-1nqgxfjb6</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Guía Didáctica</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Guía Didáctica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2xcow4-1nqgxfjb6</odePageId>
+      <odeBlockId>block-1778352739615-9tea5r3lm</odeBlockId>
+      <blockName>Texto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcow4-1nqgxfjb6</odePageId>
+          <odeBlockId>block-1778352739615-9tea5r3lm</odeBlockId>
+          <odeIdeviceId>idevice-1778352739613-net8uoaf2</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Esta Situación de Aprendizaje está diseñada para el alumnado de 3º de Educación Primaria, integrada en el área de Conocimiento del Medio Natural, Social y Cultural.</p>
+<p><span style="color: #e03e2d;"><strong>1. Relación Curricular </strong></span><br />A continuación se detalla la vinculación entre las tareas del proyecto y los criterios de evaluación oficiales de la Orden de 30 de mayo de 2023 (Andalucía):</p>
+<table border="1" style="width: 100%;">
+<tbody>
+<tr>
+<td style="width: 33.3333%;">TAREA DEL PROYECTO</td>
+<td style="width: 33.3333%;">CRITERIO DE EVALUACIÓN</td>
+<td style="width: 33.3333%;">SABERES BÁSICOS</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Investigación y curación: Búsqueda en Internet y muro Padlet.</td>
+<td style="width: 33.3333%;">1.1.a. Utilizar dispositivos y recursos digitales de forma segura, iniciándose en la búsqueda de información.</td>
+<td style="width: 33.3333%;">Tecnología digital de entorno de aprendizaje.</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Creación multimedia: Diseño de infografía de sensibilización en Canva.</td>
+<td style="width: 33.3333%;">4.1.a. Reconocer actitudes que fomenten el bienestar emocional y social, estableciendo relaciones afectivas saludables.</td>
+<td style="width: 33.3333%;">Educación emocional y trabajo cooperativo.</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Evaluación y compromiso: reflexión final y cuestionario digital.</td>
+<td style="width: 33.3333%;">5.3.a. Valorar y proteger el patrimonio natural, considerándolo un bien común.</td>
+<td style="width: 33.3333%;">Conciencia medioambiental y desarrollo sostenible.</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p><span style="color: #e03e2d;"><strong>2. Metodología y Atención a la Diversidad (DUA).</strong></span></p>
+<p>El proyecto se basa en el Aprendizaje Basado en Proyectos (ABP) y sigue las pautas del Diseño Universal para el Aprendizaje (DUA):</p>
+<ul>
+<li>Múltiples formas de representación: La información se presenta mediante textos, vídeos, iconos y ejemplos visuales.</li>
+<li>Múltiples formas de acción y expresión: El alumnado puede demostrar lo aprendido a través de una creación artística digital (Canva) y una reflexión personal (Formulario).</li>
+<li>Múltiples formas de implicación: Se fomenta el trabajo en parejas para mejorar la motivación y el bienestar social (Criterio 4.1.a).</li>
+</ul>
+<p><strong><span style="color: #e03e2d;">3. Herramientas digitales utilizadas.</span></strong></p>
+<ul>
+<li>Padlet: Para la curación de contenidos.</li>
+<li>Canva: Para la expresión creativa.<br /></li>
+<li>Google Forms: Para la evaluación formativa y metacognición.</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778352739613-net8uoaf2","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Esta Situación de Aprendizaje está diseñada para el alumnado de 3º de Educación Primaria, integrada en el área de Conocimiento del Medio Natural, Social y Cultural.</p>\n<p><span style=\"color: #e03e2d;\"><strong>1. Relación Curricular </strong></span><br />A continuación se detalla la vinculación entre las tareas del proyecto y los criterios de evaluación oficiales de la Orden de 30 de mayo de 2023 (Andalucía):</p>\n<table border=\"1\" style=\"width: 100%;\">\n<tbody>\n<tr>\n<td style=\"width: 33.3333%;\">TAREA DEL PROYECTO</td>\n<td style=\"width: 33.3333%;\">CRITERIO DE EVALUACIÓN</td>\n<td style=\"width: 33.3333%;\">SABERES BÁSICOS</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">Investigación y curación: Búsqueda en Internet y muro Padlet.</td>\n<td style=\"width: 33.3333%;\">1.1.a. Utilizar dispositivos y recursos digitales de forma segura, iniciándose en la búsqueda de información.</td>\n<td style=\"width: 33.3333%;\">Tecnología digital de entorno de aprendizaje.</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">Creación multimedia: Diseño de infografía de sensibilización en Canva.</td>\n<td style=\"width: 33.3333%;\">4.1.a. Reconocer actitudes que fomenten el bienestar emocional y social, estableciendo relaciones afectivas saludables.</td>\n<td style=\"width: 33.3333%;\">Educación emocional y trabajo cooperativo.</td>\n</tr>\n<tr>\n<td style=\"width: 33.3333%;\">Evaluación y compromiso: reflexión final y cuestionario digital.</td>\n<td style=\"width: 33.3333%;\">5.3.a. Valorar y proteger el patrimonio natural, considerándolo un bien común.</td>\n<td style=\"width: 33.3333%;\">Conciencia medioambiental y desarrollo sostenible.</td>\n</tr>\n</tbody>\n</table>\n<p></p>\n<p><span style=\"color: #e03e2d;\"><strong>2. Metodología y Atención a la Diversidad (DUA).</strong></span></p>\n<p>El proyecto se basa en el Aprendizaje Basado en Proyectos (ABP) y sigue las pautas del Diseño Universal para el Aprendizaje (DUA):</p>\n<ul>\n<li>Múltiples formas de representación: La información se presenta mediante textos, vídeos, iconos y ejemplos visuales.</li>\n<li>Múltiples formas de acción y expresión: El alumnado puede demostrar lo aprendido a través de una creación artística digital (Canva) y una reflexión personal (Formulario).</li>\n<li>Múltiples formas de implicación: Se fomenta el trabajo en parejas para mejorar la motivación y el bienestar social (Criterio 4.1.a).</li>\n</ul>\n<p><strong><span style=\"color: #e03e2d;\">3. Herramientas digitales utilizadas.</span></strong></p>\n<ul>\n<li>Padlet: Para la curación de contenidos.</li>\n<li>Canva: Para la expresión creativa.<br /></li>\n<li>Google Forms: Para la evaluación formativa y metacognición.</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2xcow7-ylikhovut</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Navegación Segura</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Navegación Segura</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Navegación Segura</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2xcow7-ylikhovut</odePageId>
+      <odeBlockId>block-1778353765212-egruswslc</odeBlockId>
+      <blockName>MIS SUPERPODERES DIGITALES</blockName>
+      <iconName>think_alt</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcow7-ylikhovut</odePageId>
+          <odeBlockId>block-1778353765212-egruswslc</odeBlockId>
+          <odeIdeviceId>idevice-1778353765203-p4cvhcdf1</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Para ser un auténtico Guardián del Agua, no solo hay que cuidar los ríos, ¡también hay que cuidar nuestra seguridad en internet! Antes de empezar a investigar, recuerda estas reglas de oro:</p>
+<p>1. <strong>Mi identidad es secreta </strong></p>
+<p>Tus datos personales son como un tesoro. En nuestras herramientas (Padlet y Canva), nunca escribas:</p>
+<p>Tu apellido real (usa solo tu nombre y la inicial).<br />Tu dirección o número de teléfono.<br />Tus contraseñas (¡son secretas!).</p>
+<p><br /><strong>2. Respeto y Amabilidad (Netiqueta)</strong> <br />Cuando escribas en el muro de clase:</p>
+<p>Trata a los demás como te gustaría que te trataran a ti.<br />Pide permiso antes de subir una foto o un dibujo donde salga un compañero o compañera.</p>
+<p><br /><strong>3. Derechos de Autor: ¡Da las gracias! </strong><br />Si encuentras una foto genial en internet para tu cartel, recuerda que alguien la hizo. Aprenderemos a usar imágenes libres (como las de Pixabay) para respetar el trabajo de los demás.</p>
+<p><strong>4. ¡Pide ayuda! </strong><br />Si ves algo que te hace sentir incómodo, te asusta o no entiendes, avisa rápido al profe o a un adulto. ¡Estamos aquí para ayudarte!</p>
+<p><iframe width="560" height="314" src="https://www.youtube.com/embed/mI6fr6Y6dPI?si=W94oLERvdePIfXa-" allowfullscreen="allowfullscreen"></iframe></p>
+<p></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778353765203-p4cvhcdf1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Para ser un auténtico Guardián del Agua, no solo hay que cuidar los ríos, ¡también hay que cuidar nuestra seguridad en internet! Antes de empezar a investigar, recuerda estas reglas de oro:</p>\n<p>1. <strong>Mi identidad es secreta </strong></p>\n<p>Tus datos personales son como un tesoro. En nuestras herramientas (Padlet y Canva), nunca escribas:</p>\n<p>Tu apellido real (usa solo tu nombre y la inicial).<br />Tu dirección o número de teléfono.<br />Tus contraseñas (¡son secretas!).</p>\n<p><br /><strong>2. Respeto y Amabilidad (Netiqueta)</strong> <br />Cuando escribas en el muro de clase:</p>\n<p>Trata a los demás como te gustaría que te trataran a ti.<br />Pide permiso antes de subir una foto o un dibujo donde salga un compañero o compañera.</p>\n<p><br /><strong>3. Derechos de Autor: ¡Da las gracias! </strong><br />Si encuentras una foto genial en internet para tu cartel, recuerda que alguien la hizo. Aprenderemos a usar imágenes libres (como las de Pixabay) para respetar el trabajo de los demás.</p>\n<p><strong>4. ¡Pide ayuda! </strong><br />Si ves algo que te hace sentir incómodo, te asusta o no entiendes, avisa rápido al profe o a un adulto. ¡Estamos aquí para ayudarte!</p>\n<p><iframe width=\"560\" height=\"314\" src=\"https://www.youtube.com/embed/mI6fr6Y6dPI?si=W94oLERvdePIfXa-\" allowfullscreen=\"allowfullscreen\"></iframe></p>\n<p></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcow7-ylikhovut</odePageId>
+      <odeBlockId>block-1778354222099-dt384289b</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcow7-ylikhovut</odePageId>
+          <odeBlockId>block-1778354222099-dt384289b</odeBlockId>
+          <odeIdeviceId>idevice-1778354222097-89hjyu5lk</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">¡Importante!</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>Tu nombre y apellidos son secretos. No los compartas en Padlet ni Canva. ¡Usa solo tu nombre de pila!</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcow7-ylikhovut</odePageId>
+      <odeBlockId>block-1778354567543-8lvnwsguj</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcow7-ylikhovut</odePageId>
+          <odeBlockId>block-1778354567543-8lvnwsguj</odeBlockId>
+          <odeIdeviceId>idevice-1778354567541-bxa4kob1s</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Sé amable</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p><strong>Trata con respeto a tus compañeros en la red. Pide permiso siempre antes de subir algo de otra persona.</strong></p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2xcowa-42pxpcagq</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Plan de Trabajo</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Plan de Trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Plan de Trabajo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2xcowa-42pxpcagq</odePageId>
+      <odeBlockId>block-1778355885193-qucorbt1u</odeBlockId>
+      <blockName>SESIÓN 1: Descubrimos qué vamos a hacer</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowa-42pxpcagq</odePageId>
+          <odeBlockId>block-1778355885193-qucorbt1u</odeBlockId>
+          <odeIdeviceId>idevice-1778355885184-00gq76s79</odeIdeviceId>
+          <odeIdeviceTypeName>flipcards</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="flipcards-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778355885184-00gq76s79" data-evaluationb="false" data-evaluationid="1cba249a-bb51-434c-871c-bb007941654b"></div><div class="flipcards-instructions"><p>Pulsa sobre las tarjetas para descubrir qué esconden.</p></div><div class="flipcards-DataGame js-hidden">{"typeGame":"FlipCards","author":"","randomCards":true,"instructions":"<p>Pulsa sobre las tarjetas para descubrir qué esconden.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/gotaagua.jpeg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#25d1f4","backcolor":"#ffffff","eText":"SESI%C3%93N%201%3A%20%C2%BFQu%C3%A9%20le%20pasa%20al%20agua%3F","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"%C2%A1Comienza%20la%20misi%C3%B3n!%20Veremos%20un%20v%C3%ADdeo%20sobre%20el%20ciclo%20del%20agua%2C%20hablaremos%20sobre%20la%20sequ%C3%ADa%20y%20descubriremos%20por%20qu%C3%A9%20debemos%20ser%20Guardianes%20del%20Agua."}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","percentajeCards":100,"version":1.3,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"1cba249a-bb51-434c-871c-bb007941654b","imgCard":"","id":"idevice-1778355885184-00gq76s79","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgCool":"¡Bien!","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgPreviousCard":"Anterior","msgNextCard":"Siguiente","msgNumQuestions":"Número de tarjetas","msgTrue":"Verdadero","msgFalse":"Falso","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","mgsAllQuestions":"¡Completadas las preguntas!","msgTrue1":"Has acertado. Es la cara correcta.","msgTrue2":"Has fallado. No es la cara correcta.","msgFalse1":"Has acertado. No es la cara correcta.","msgFalse2":"Has fallado. Es la cara correcta.","mgsClickCard":"Pulsa en la tarjeta","msgEndTime":"Acabó el tiempo de juego. Tu puntuación es %s.","msgEnd":"Finalizar","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Tarjetas de memoria"}}</div><a href="{{context_path}}/content/resources/gotaagua.jpeg" class="js-hidden flipcards-LinkImages">0</a><div class="flipcards-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcowa-42pxpcagq</odePageId>
+      <odeBlockId>block-1778356281920-rtyvxarmm</odeBlockId>
+      <blockName>SESIÓN 2</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowa-42pxpcagq</odePageId>
+          <odeBlockId>block-1778356281920-rtyvxarmm</odeBlockId>
+          <odeIdeviceId>idevice-1778356281918-lh2iam28j</odeIdeviceId>
+          <odeIdeviceTypeName>flipcards</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="flipcards-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778356281918-lh2iam28j" data-evaluationb="false" data-evaluationid="1cba249a-bb51-434c-871c-bb007941654b"></div><div class="flipcards-instructions"><p>Pulsa sobre las tarjetas para descubrir qué esconden.</p></div><div class="flipcards-DataGame js-hidden">{"typeGame":"FlipCards","author":"","randomCards":true,"instructions":"<p>Pulsa sobre las tarjetas para descubrir qué esconden.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/detectuve.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"SESI%C3%93N%202%3A%20Buscamos%20pistas","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Entraremos%20en%20nuestro%20muro%20de%20Padlet%20para%20investigar%20y%20guardar%20los%20mejores%20trucos%20de%20ahorro.%20Aprenderemos%20a%20navegar%20de%20forma%20segura."}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","percentajeCards":100,"version":1.3,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"1cba249a-bb51-434c-871c-bb007941654b","imgCard":"","id":"idevice-1778356281918-lh2iam28j","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgCool":"¡Bien!","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgPreviousCard":"Anterior","msgNextCard":"Siguiente","msgNumQuestions":"Número de tarjetas","msgTrue":"Verdadero","msgFalse":"Falso","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","mgsAllQuestions":"¡Completadas las preguntas!","msgTrue1":"Has acertado. Es la cara correcta.","msgTrue2":"Has fallado. No es la cara correcta.","msgFalse1":"Has acertado. No es la cara correcta.","msgFalse2":"Has fallado. Es la cara correcta.","mgsClickCard":"Pulsa en la tarjeta","msgEndTime":"Acabó el tiempo de juego. Tu puntuación es %s.","msgEnd":"Finalizar","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Tarjetas de memoria"}}</div><a href="{{context_path}}/content/resources/detectuve.png" class="js-hidden flipcards-LinkImages">0</a><div class="flipcards-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcowa-42pxpcagq</odePageId>
+      <odeBlockId>block-1778511096038-utr9u2wwq</odeBlockId>
+      <blockName>SESIÓN 3</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowa-42pxpcagq</odePageId>
+          <odeBlockId>block-1778511096038-utr9u2wwq</odeBlockId>
+          <odeIdeviceId>idevice-1778511096030-s8ed27w52</odeIdeviceId>
+          <odeIdeviceTypeName>flipcards</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="flipcards-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778511096030-s8ed27w52" data-evaluationb="false" data-evaluationid="6973adb9-5af8-44ec-b5fe-751084baae7b"></div><div class="flipcards-instructions"><p>Pulsa sobre las tarjetas para descubrir qué esconden.</p></div><div class="flipcards-DataGame js-hidden">{"typeGame":"FlipCards","author":"","randomCards":true,"instructions":"<p>Pulsa sobre las tarjetas para descubrir qué esconden.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/creativida.jpeg","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"SESI%C3%93N%203%3A%20%C2%A1Manos%20a%20la%20obra!","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Abriremos%20Canva%20y%2C%20por%20parejas%2C%20empezaremos%20a%20dise%C3%B1ar%20nuestra%20infograf%C3%ADa%20o%20cartel%20para%20salvar%20el%20planeta.%20%C2%A1Usa%20colores%20llamativos!"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","percentajeCards":100,"version":1.3,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"6973adb9-5af8-44ec-b5fe-751084baae7b","imgCard":"","id":"idevice-1778511096030-s8ed27w52","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgCool":"¡Bien!","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgPreviousCard":"Anterior","msgNextCard":"Siguiente","msgNumQuestions":"Número de tarjetas","msgTrue":"Verdadero","msgFalse":"Falso","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","mgsAllQuestions":"¡Completadas las preguntas!","msgTrue1":"Has acertado. Es la cara correcta.","msgTrue2":"Has fallado. No es la cara correcta.","msgFalse1":"Has acertado. No es la cara correcta.","msgFalse2":"Has fallado. Es la cara correcta.","mgsClickCard":"Pulsa en la tarjeta","msgEndTime":"Acabó el tiempo de juego. Tu puntuación es %s.","msgEnd":"Finalizar","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Tarjetas de memoria"}}</div><a href="{{context_path}}/content/resources/creativida.jpeg" class="js-hidden flipcards-LinkImages">0</a><div class="flipcards-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcowa-42pxpcagq</odePageId>
+      <odeBlockId>block-1778511317157-oscq27yjg</odeBlockId>
+      <blockName>SESIÓN 4</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowa-42pxpcagq</odePageId>
+          <odeBlockId>block-1778511317157-oscq27yjg</odeBlockId>
+          <odeIdeviceId>idevice-1778511317155-92bihxzsb</odeIdeviceId>
+          <odeIdeviceTypeName>flipcards</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="flipcards-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778511317155-92bihxzsb" data-evaluationb="false" data-evaluationid="6973adb9-5af8-44ec-b5fe-751084baae7b"></div><div class="flipcards-instructions"><p>Pulsa sobre las tarjetas para descubrir qué esconden.</p></div><div class="flipcards-DataGame js-hidden">{"typeGame":"FlipCards","author":"","randomCards":true,"instructions":"<p>Pulsa sobre las tarjetas para descubrir qué esconden.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/images.png","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Sesi%C3%B3n%204%3A%20Difusi%C3%B3n","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Terminamos%20el%20cartel%20y%20creamos%20un%20c%C3%B3digo%20QR.%20Lo%20colgaremos%20en%20el%20pasillo%20del%20cole%20para%20que%20todos%20aprendan%20a%20cuidar%20el%20patrimonio%20natural."}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","percentajeCards":100,"version":1.3,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"6973adb9-5af8-44ec-b5fe-751084baae7b","imgCard":"","id":"idevice-1778511317155-92bihxzsb","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgCool":"¡Bien!","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgPreviousCard":"Anterior","msgNextCard":"Siguiente","msgNumQuestions":"Número de tarjetas","msgTrue":"Verdadero","msgFalse":"Falso","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","mgsAllQuestions":"¡Completadas las preguntas!","msgTrue1":"Has acertado. Es la cara correcta.","msgTrue2":"Has fallado. No es la cara correcta.","msgFalse1":"Has acertado. No es la cara correcta.","msgFalse2":"Has fallado. Es la cara correcta.","mgsClickCard":"Pulsa en la tarjeta","msgEndTime":"Acabó el tiempo de juego. Tu puntuación es %s.","msgEnd":"Finalizar","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Tarjetas de memoria"}}</div><a href="{{context_path}}/content/resources/images.png" class="js-hidden flipcards-LinkImages">0</a><div class="flipcards-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcowa-42pxpcagq</odePageId>
+      <odeBlockId>block-1778511577558-fb5lz6tkj</odeBlockId>
+      <blockName>SESIÓN 5</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>4</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowa-42pxpcagq</odePageId>
+          <odeBlockId>block-1778511577558-fb5lz6tkj</odeBlockId>
+          <odeIdeviceId>idevice-1778511577549-ocgfy7z3q</odeIdeviceId>
+          <odeIdeviceTypeName>flipcards</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="flipcards-IDevice"><div class="game-evaluation-ids js-hidden" data-id="idevice-1778511577549-ocgfy7z3q" data-evaluationb="false" data-evaluationid="6973adb9-5af8-44ec-b5fe-751084baae7b"></div><div class="flipcards-instructions"><p>Pulsa sobre las tarjetas para descubrir qué esconden.</p></div><div class="flipcards-DataGame js-hidden">{"typeGame":"FlipCards","author":"","randomCards":true,"instructions":"<p>Pulsa sobre las tarjetas para descubrir qué esconden.</p>","showMinimize":false,"itinerary":{"showClue":false,"clueGame":"","percentageClue":40,"showCodeAccess":false,"codeAccess":"","messageCodeAccess":""},"cardsGame":[{"url":"{{context_path}}/content/resources/Figura-21-Navegacion-y-busqueda-Fuente-storysetcom_Q320.jpg.webp","x":0,"y":0,"author":"","alt":"","audio":"","color":"#000000","backcolor":"#ffffff","eText":"Sesi%C3%B3n%205%3A%20%C2%BFMisi%C3%B3n%20cumplida%3F","urlBk":"","xBk":0,"yBk":0,"authorBk":"","altBk":"","audioBk":"","colorBk":"#000000","backcolorBk":"#ffffff","eTextBk":"Completaremos%20nuestro%20cuestionario%20digital%20y%20reflexionaremos%20sobre%20lo%20aprendido.%20%C2%A1Recibir%C3%A1s%20tu%20carnet%20oficial%20de%20Guardi%C3%A1n%20del%20Agua!"}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"textAfter":"","percentajeCards":100,"version":1.3,"type":0,"showSolution":true,"timeShowSolution":3,"time":3,"evaluation":false,"evaluationID":"6973adb9-5af8-44ec-b5fe-751084baae7b","imgCard":"","id":"idevice-1778511577549-ocgfy7z3q","msgs":{"msgSubmit":"Enviar","msgClue":"¡Genial! La pista es:","msgCodeAccess":"Código de acceso","msgPlayAgain":"Jugar otra vez","msgPlayStart":"Pulsa aquí para jugar","msgScore":"Puntuación","msgWeight":"Peso","msgErrors":"Errores","msgHits":"Aciertos","msgMinimize":"Minimizar","msgMaximize":"Maximizar","msgCool":"¡Bien!","msgFullScreen":"Pantalla Completa","msgExitFullScreen":"Salir del modo pantalla completa","msgSuccesses":"¡Correcto! | ¡Excelente! | ¡Genial! | ¡Muy bien! | ¡Perfecto!","msgFailures":"¡No era eso! | ¡Incorrecto! | ¡No es correcto! | ¡Lo sentimos! | ¡Error!","msgNoImage":"Pregunta sin imágenes","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgInformation":"Información","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgClose":"Cerrar","msgAudio":"Audio","msgPreviousCard":"Anterior","msgNextCard":"Siguiente","msgNumQuestions":"Número de tarjetas","msgTrue":"Verdadero","msgFalse":"Falso","msgTryAgain":"Necesitas al menos %s% de respuestas correctas para obtener la información. Inténtalo de nuevo.","mgsAllQuestions":"¡Completadas las preguntas!","msgTrue1":"Has acertado. Es la cara correcta.","msgTrue2":"Has fallado. No es la cara correcta.","msgFalse1":"Has acertado. No es la cara correcta.","msgFalse2":"Has fallado. Es la cara correcta.","mgsClickCard":"Pulsa en la tarjeta","msgEndTime":"Acabó el tiempo de juego. Tu puntuación es %s.","msgEnd":"Finalizar","msgEndGameM":"Has completado el juego. Tu puntuación es %s.","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Tarjetas de memoria"}}</div><a href="{{context_path}}/content/resources/Figura-21-Navegacion-y-busqueda-Fuente-storysetcom_Q320.jpg.webp" class="js-hidden flipcards-LinkImages">0</a><div class="flipcards-bns js-hidden">Su navegador no es compatible con esta herramienta.</div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2xcowe-qsrwwnkrl</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nuestras misiones</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestras misiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nuestras misiones</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2xcowe-qsrwwnkrl</odePageId>
+      <odeBlockId>block-1778512291526-armakau82</odeBlockId>
+      <blockName>¿Qué tienes que hacer?</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowe-qsrwwnkrl</odePageId>
+          <odeBlockId>block-1778512291526-armakau82</odeBlockId>
+          <odeIdeviceId>idevice-1778512291525-cfavm5vur</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><strong>¡Atención, equipo de Guardianes!</strong></p>
+<p>Ha llegado el momento de pasar a la acción. Para completar vuestro entrenamiento, deberéis superar estas dos misiones fundamentales:</p>
+<ul>
+<li>Misión 1: Investigamos. Exploraremos el muro de Padlet para convertirnos en expertos sobre el ahorro de agua.</li>
+<li>Misión 2: Creamos. Usaremos todo lo aprendido para diseñar un cartel increíble en Canva.</li>
+</ul>
+<p><br />💡 Un consejo: Podéis navegar por estas misiones usando el menú de la izquierda o los botones de "Siguiente" que aparecen en la esquina superior derecha de la página.</p>
+<p>¡Adelante!</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778512291525-cfavm5vur","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><strong>¡Atención, equipo de Guardianes!</strong></p>\n<p>Ha llegado el momento de pasar a la acción. Para completar vuestro entrenamiento, deberéis superar estas dos misiones fundamentales:</p>\n<ul>\n<li>Misión 1: Investigamos. Exploraremos el muro de Padlet para convertirnos en expertos sobre el ahorro de agua.</li>\n<li>Misión 2: Creamos. Usaremos todo lo aprendido para diseñar un cartel increíble en Canva.</li>\n</ul>\n<p><br />💡 Un consejo: Podéis navegar por estas misiones usando el menú de la izquierda o los botones de \"Siguiente\" que aparecen en la esquina superior derecha de la página.</p>\n<p>¡Adelante!</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2xcowg-kbzeh6ljz</odePageId>
+  <odeParentPageId>page-mp2xcowe-qsrwwnkrl</odeParentPageId>
+  <pageName>Misión 1: Investigamos</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Misión 1: Investigamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Misión 1: Investigamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2xcowg-kbzeh6ljz</odePageId>
+      <odeBlockId>block-1778512580277-eqfyx7zta</odeBlockId>
+      <blockName>Conoce tu misión</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowg-kbzeh6ljz</odePageId>
+          <odeBlockId>block-1778512580277-eqfyx7zta</odeBlockId>
+          <odeIdeviceId>idevice-1778512580269-u01x0a21p</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-representation"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">¿Cuál es mi misión?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>¡Bienvenido/a al centro de datos, Guardián! Explora nuestro muro de Padlet y busca información sobre el ciclo del agua y consejos de ahorro.</p>
+<p><strong>Tu objetivo:</strong> Selecciona las 3 ideas de ahorro que más te gusten. ¡Las necesitarás para tu misión de diseño en Canva!</p>
+</div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcowg-kbzeh6ljz</odePageId>
+      <odeBlockId>block-1778512758777-4qn9du72n</odeBlockId>
+      <blockName>Sitio web externo</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowg-kbzeh6ljz</odePageId>
+          <odeBlockId>block-1778512758777-4qn9du72n</odeBlockId>
+          <odeIdeviceId>idevice-1778512758776-redzjq2a7</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://padlet.com/nbohagu127/herramientas-que-necesitare-para-mi-proyecto-x0ztcp21ibrg1fh7" size="3" width="600" height="500" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcowg-kbzeh6ljz</odePageId>
+      <odeBlockId>block-1778512875846-22wf3nwye</odeBlockId>
+      <blockName>Verdadero o falso</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowg-kbzeh6ljz</odePageId>
+          <odeBlockId>block-1778512875846-22wf3nwye</odeBlockId>
+          <odeIdeviceId>idevice-1778512875844-1dmi0f0wz</odeIdeviceId>
+          <odeIdeviceTypeName>trueorfalse</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-trueorfalse-container">
+  
+    <div class="game-evaluation-ids js-hidden" data-id="idevice-1778512875844-1dmi0f0wz" data-evaluationb="false" data-evaluationid=""></div>
+        <div class="TOFP-instructions"><p>Responde todas las preguntas del cuestionario.</p></div>
+        <div class="TOFP-MainContainer" data-instance="idevice-1778512875844-1dmi0f0wz" id="tofPMainContainer-idevice-1778512875844-1dmi0f0wz">
+            <div class="TOFP-GameContainer" id="tofPGameContainer-idevice-1778512875844-1dmi0f0wz">
+                <div class="TOFP-GameScoreBoard TOFP-EHidden">
+                    <div class="TOFP-TimeNumber">
+                        <strong><span class="sr-av">Tiempo por pregunta:</span></strong>
+                        <p id="tofPPTime-idevice-1778512875844-1dmi0f0wz" class="TOFP-PTime">00:00:</p>
+                    </div>
+                </div>
+                <div class="TOFP-MessgeDiv" id="tofPMessageDiv-idevice-1778512875844-1dmi0f0wz">
+                    <div class="TOFP-Message" id="tofPMessage-idevice-1778512875844-1dmi0f0wz"></div>
+                </div>
+                <div class="TOFP-StartGameDiv TOFP-EHidden" id="tofPStartGameDiv-idevice-1778512875844-1dmi0f0wz">
+                    <button  id="tofPStartGame-idevice-1778512875844-1dmi0f0wz" type="button" class="btn btn-primary">Pulsa aquí para empezar</button>
+                </div>
+                <div class="TOFP-Multimedia " id="tofPMultimedia-idevice-1778512875844-1dmi0f0wz">
+                </div>
+                <div class="TOFP-CheckTestDiv TOFP-EHidden" id="tofPCheckTestDiv-idevice-1778512875844-1dmi0f0wz">
+                    <button id="tofPCheckTest-idevice-1778512875844-1dmi0f0wz" type="button" class="btn btn-primary">Comprobar</button>
+                    <button id="tofRebootTest-idevice-1778512875844-1dmi0f0wz" type="button" class="btn btn-primary TOFP-EHidden">¡Prueba otra vez!</button>
+                </div>
+        </div> 
+        <div class="Games-BottonContainer">
+            <div class="Games-GetScore">
+                <input id="tofPSendScore-idevice-1778512875844-1dmi0f0wz" type="button" value="Guardar la puntuación" class="feedbackbutton Games-SendScore" style="display:none"/> <span class="Games-RepeatActivity"></span>
+            </div>
+        </div>
+        <div class="TOFP-After"></div>
+        <div class="questionsMedia" style="display:none"></div>
+</div>
+]]></htmlView>
+          <jsonProperties><![CDATA[{"id":"idevice-1778512875844-1dmi0f0wz","typeGame":"TrueOrFalse","eXeGameInstructions":"<p>Responde todas las preguntas del cuestionario.</p>","eXeIdeviceTextAfter":"","msgs":{"msgStartGame":"Pulsa aquí para empezar","msgTime":"Tiempo por pregunta","msgNoImage":"Pregunta sin imágenes","msgScoreScorm":"La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.","msgEndGameScore":"Comience la partida antes de guardar la puntuación.","msgOnlySaveScore":"¡Solo puede guardar la puntuación una vez!","msgOnlySave":"Solo puede guardar una vez","msgYouScore":"Su puntuación","msgAuthor":"Autoría","msgOnlySaveAuto":"Su puntuación se guardará después de cada pregunta. Solo puede jugar una vez.","msgSaveAuto":"Su puntuación se guardará automáticamente después de cada pregunta.","msgSeveralScore":"Puede guardar la puntuación tantas veces como quiera","msgYouLastScore":"La última puntuación guardada es","msgActityComply":"Ya ha realizado esta actividad.","msgPlaySeveralTimes":"Puede realizar esta actividad cuantas veces quiera","msgUncompletedActivity":"Actividad no completada","msgSuccessfulActivity":"Actividad superada. Puntuación: %s","msgUnsuccessfulActivity":"Actividad no superada. Puntuación: %s","msgTypeGame":"Verdadero o falso","msgFeedback":"Retroalimentación","msgSuggestion":"Sugerencia","msgSolution":"Solución","msgQuestion":"Pregunta","msgTrue":"Verdadero","msgFalse":"Falso","msgOk":"Correcto","msgKO":"Incorrecto","msgShow":"Mostrar","msgHide":"Ocultar","msgCheck":"Comprobar","msgReboot":"¡Prueba otra vez!","msgScore":"Puntuación","msgWeight":"Peso","msgNext":"Siguiente","msgPrevious":"Anterior"},"questionsRandom":false,"percentageQuestions":100,"isTest":false,"time":0,"questionsGame":[{"question":"<p>¿Puedo encontrar consejos para ahorrar agua en el Padlet de clase?</p>","feedback":"<p>¡Exacto! Usa esos consejos para tu cartel de la siguiente misión.</p>","suggestion":"","solution":1}],"isScorm":0,"textButtonScorm":"Guardar la puntuación","repeatActivity":true,"weighted":100,"evaluation":false,"evaluationID":"","showSlider":false,"ideviceId":"idevice-1778512875844-1dmi0f0wz"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcowg-kbzeh6ljz</odePageId>
+      <odeBlockId>block-1778512970972-so3ub5k6y</odeBlockId>
+      <blockName>Derechos</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowg-kbzeh6ljz</odePageId>
+          <odeBlockId>block-1778512970972-so3ub5k6y</odeBlockId>
+          <odeIdeviceId>idevice-1778512970971-zld21x580</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Muro de investigación creado por Noelia Bohórquez Aguilar con Padlet. Recursos seleccionados con fines educativos bajo licencias de libre distribución.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778512970971-zld21x580","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Muro de investigación creado por Noelia Bohórquez Aguilar con Padlet. Recursos seleccionados con fines educativos bajo licencias de libre distribución.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2xcowr-g6fikvwsp</odePageId>
+  <odeParentPageId>page-mp2xcowe-qsrwwnkrl</odeParentPageId>
+  <pageName>Misión 2: Creamos </pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Misión 2: Creamos </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Misión 2: Creamos </value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2xcowr-g6fikvwsp</odePageId>
+      <odeBlockId>block-1778513065152-cpb92yr5u</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowr-g6fikvwsp</odePageId>
+          <odeBlockId>block-1778513065152-cpb92yr5u</odeBlockId>
+          <odeIdeviceId>idevice-1778513065151-6q5evac87</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">¿Qué tengo que crear?</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>¡Es hora de diseñar! Tu misión es crear un cartel o infografía en Canva para convencer a todo el mundo de que el agua es un tesoro.</p>
+<p>Tu diseño debe incluir:</p>
+<ul>
+<li>Un título que llame mucho la atención.<br></li>
+<li>Imágenes o iconos chulos sobre el agua.<br></li>
+<li>Los 3 consejos de ahorro que elegiste en la misión anterior.</li>
+</ul></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcowr-g6fikvwsp</odePageId>
+      <odeBlockId>block-1778514032345-7h4fw47ao</odeBlockId>
+      <blockName>Contenido DUA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowr-g6fikvwsp</odePageId>
+          <odeBlockId>block-1778514032345-7h4fw47ao</odeBlockId>
+          <odeIdeviceId>idevice-1778514032343-483za54nv</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-expression"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">Checklist del Guardián</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>¡Revisa tu trabajo! Asegúrate de que tu cartel cumple con:</p>
+<p>✅ Título: Que sea grande y se lea bien.<br>✅ Consejos: Al menos 3 trucos para ahorrar agua.<br>✅ Imágenes: Que sean bonitas y sin derechos de autor.<br>✅ Seguridad: Sin apellidos ni datos privados.</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcowr-g6fikvwsp</odePageId>
+      <odeBlockId>block-1778514288910-yyo8khtho</odeBlockId>
+      <blockName>PULSA AQUÍ PARA COMENZAR TU DISEÑO EN CANVA</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowr-g6fikvwsp</odePageId>
+          <odeBlockId>block-1778514288910-yyo8khtho</odeBlockId>
+          <odeIdeviceId>idevice-1778514288907-h4n6kqr4x</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://www.canva.com/" target="_blank" rel="noopener" title="">PULSA AQUÍ PARA CO</a><a href="https://www.canva.com/" target="_blank" rel="noopener" title="">MENZAR TU DISEÑO EN CANVA</a></p>
+<p></p>
+<p><img src="{{context_path}}/content/resources/images_1.png" width="332" height="152" alt="Logo de Canva." /></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778514288907-h4n6kqr4x","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://www.canva.com/\" target=\"_blank\" rel=\"noopener\" title=\"\">PULSA AQUÍ PARA CO</a><a href=\"https://www.canva.com/\" target=\"_blank\" rel=\"noopener\" title=\"\">MENZAR TU DISEÑO EN CANVA</a></p>\n<p></p>\n<p><img src=\"{{context_path}}/content/resources/images_1.png\" width=\"332\" height=\"152\" alt=\"Logo de Canva.\" /></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcowr-g6fikvwsp</odePageId>
+      <odeBlockId>block-1778514521639-amdmdfldc</odeBlockId>
+      <blockName>Nota de autoría</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcowr-g6fikvwsp</odePageId>
+          <odeBlockId>block-1778514521639-amdmdfldc</odeBlockId>
+          <odeIdeviceId>idevice-1778514521636-jwcnp1whd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Actividad diseñada por Noelia Bohórquez Aguilar. El alumnado utilizará la herramienta Canva para la creación del producto final.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778514521636-jwcnp1whd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Actividad diseñada por Noelia Bohórquez Aguilar. El alumnado utilizará la herramienta Canva para la creación del producto final.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2xcoxd-h50me3nya</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>¿Cómo lo hemos hecho?</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo lo hemos hecho?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>¿Cómo lo hemos hecho?</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2xcoxd-h50me3nya</odePageId>
+      <odeBlockId>block-1778514644442-kkknkcex3</odeBlockId>
+      <blockName>¿Cómo se valorará mi trabajo? Rúbrica</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcoxd-h50me3nya</odePageId>
+          <odeBlockId>block-1778514644442-kkknkcex3</odeBlockId>
+          <odeIdeviceId>idevice-1778514644434-wrwwx1ffp</odeIdeviceId>
+          <odeIdeviceTypeName>rubric</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="rubric-IDevice"><div class="exe-rubrics-instructions gameQP-instructions"><p>Completa la siguiente rúbrica</p></div><div class="rubric"><div class="exe-rubrics-DataGame js-hidden">%7B%22typeGame%22%3A%22Rubric%22%2C%22version%22%3A2%2C%22id%22%3A%22idevice-1778514644434-wrwwx1ffp%22%2C%22table%22%3A%7B%22title%22%3A%22%BFC%F3mo%20lo%20he%20hecho%3F%22%2C%22categories%22%3A%5B%22Investigaci%F3n%20%28Padlet%29%22%2C%22Dise%F1o%20del%20Cartel%20%28Canva%29%22%2C%22Seguridad%20digital.%22%2C%22Uso%20de%20la%20tecnolog%EDa%22%5D%2C%22scores%22%3A%5B%22%A1S%FAper%20Guardi%E1n%21%22%2C%22Buen%20trabajo%22%2C%22Necesito%20practicar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22He%20encontrado%20los%203%20consejos%20de%20ahorro%20y%20he%20participado%20con%20respeto%20en%20el%20muro.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22He%20encontrado%201%20o%202%20consejos%20y%20mi%20participaci%F3n%20ha%20sido%20correcta.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20he%20buscado%20consejos%20ni%20he%20participado%20en%20el%20muro%20de%20clase.%22%7D%5D%2C%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Mi%20cartel%20tiene%20un%20t%EDtulo%20llamativo%2C%20los%203%20consejos%20e%20im%E1genes%20claras%20y%20bonitas.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Mi%20cartel%20tiene%20t%EDtulo%20y%20algunos%20consejos%2C%20pero%20le%20faltan%20im%E1genes%20y/o%20algo%20de%20color.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Al%20cartel%20le%20falta%20el%20t%EDtulo%2C%20los%20consejos%20se%20entienden%20bien.%22%7D%5D%2C%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22He%20protegido%20mis%20datos%20perfectamente%3A%20%A1Solo%20he%20puesto%20mi%20nombre%20de%20pila%21%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Se%20me%20ha%20olvidado%20y%20he%20puesto%20alg%FAn%20apellido%20o%20algo%20que%20no%20deb%EDa.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22He%20puesto%20mis%20datos%2C%20direcci%F3n%20y%20fotos%20privadas%20sin%20permiso.%22%7D%5D%2C%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22S%E9%20moverme%20por%20ExeLearning%2C%20Padlet%20y%20Canva%20sin%20ayuda.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Necesito%20un%20poco%20de%20ayuda%20para%20encontrar%20los%20enlaces%20o%20usar%20las%20herramientas.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Me%20cuesta%20mucho%20usar%20el%20teclado%20y/o%20el%20rat%F3n%20para%20entrar%20en%20las%20p%E1ginas.%22%7D%5D%5D%7D%2C%22title%22%3A%22%BFC%F3mo%20lo%20he%20hecho%3F%22%2C%22categories%22%3A%5B%22Investigaci%F3n%20%28Padlet%29%22%2C%22Dise%F1o%20del%20Cartel%20%28Canva%29%22%2C%22Seguridad%20digital.%22%2C%22Uso%20de%20la%20tecnolog%EDa%22%5D%2C%22scores%22%3A%5B%22%A1S%FAper%20Guardi%E1n%21%22%2C%22Buen%20trabajo%22%2C%22Necesito%20practicar%22%5D%2C%22descriptions%22%3A%5B%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22He%20encontrado%20los%203%20consejos%20de%20ahorro%20y%20he%20participado%20con%20respeto%20en%20el%20muro.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22He%20encontrado%201%20o%202%20consejos%20y%20mi%20participaci%F3n%20ha%20sido%20correcta.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22No%20he%20buscado%20consejos%20ni%20he%20participado%20en%20el%20muro%20de%20clase.%22%7D%5D%2C%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22Mi%20cartel%20tiene%20un%20t%EDtulo%20llamativo%2C%20los%203%20consejos%20e%20im%E1genes%20claras%20y%20bonitas.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Mi%20cartel%20tiene%20t%EDtulo%20y%20algunos%20consejos%2C%20pero%20le%20faltan%20im%E1genes%20y/o%20algo%20de%20color.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Al%20cartel%20le%20falta%20el%20t%EDtulo%2C%20los%20consejos%20se%20entienden%20bien.%22%7D%5D%2C%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22He%20protegido%20mis%20datos%20perfectamente%3A%20%A1Solo%20he%20puesto%20mi%20nombre%20de%20pila%21%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Se%20me%20ha%20olvidado%20y%20he%20puesto%20alg%FAn%20apellido%20o%20algo%20que%20no%20deb%EDa.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22He%20puesto%20mis%20datos%2C%20direcci%F3n%20y%20fotos%20privadas%20sin%20permiso.%22%7D%5D%2C%5B%7B%22weight%22%3A%223%22%2C%22text%22%3A%22S%E9%20moverme%20por%20ExeLearning%2C%20Padlet%20y%20Canva%20sin%20ayuda.%22%7D%2C%7B%22weight%22%3A%222%22%2C%22text%22%3A%22Necesito%20un%20poco%20de%20ayuda%20para%20encontrar%20los%20enlaces%20o%20usar%20las%20herramientas.%22%7D%2C%7B%22weight%22%3A%221%22%2C%22text%22%3A%22Me%20cuesta%20mucho%20usar%20el%20teclado%20y/o%20el%20rat%F3n%20para%20entrar%20en%20las%20p%E1ginas.%22%7D%5D%5D%2C%22instructions%22%3A%22%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E%22%2C%22visible-info%22%3Atrue%2C%22i18n%22%3A%7B%22rubric%22%3A%22R%FAbrica%22%2C%22activity%22%3A%22Actividad%22%2C%22name%22%3A%22Nombre%22%2C%22date%22%3A%22Fecha%22%2C%22score%22%3A%22Puntuaci%F3n%22%2C%22notes%22%3A%22Notas%22%2C%22download%22%3A%22Descargar%22%2C%22msgDelete%22%3A%22%BFSeguro%20que%20desea%20borrar%20todos%20los%20campos%20del%20formulario%3F%22%2C%22reset%22%3A%22Reiniciar%22%2C%22print%22%3A%22Imprimir%22%2C%22apply%22%3A%22Aplicar%22%2C%22newWindow%22%3A%22Ventana%20nueva%22%2C%22msgEndGameScore%22%3A%22Completa%20la%20r%FAbrica%20antes%20de%20guardar%20tu%20puntuaci%F3n.%22%2C%22msgScoreScorm%22%3A%22La%20puntuaci%F3n%20no%20se%20puede%20guardar%20porque%20esta%20p%E1gina%20no%20forma%20parte%20%20de%20un%20paquete%20SCORM.%22%2C%22msgOnlySaveScore%22%3A%22%A1Solo%20puede%20guardar%20la%20puntuaci%F3n%20una%20vez%21%22%2C%22msgYouScore%22%3A%22Su%20puntuaci%F3n%22%2C%22msgOnlySaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20despu%E9s%20de%20cada%20cambio.%20Solo%20puedes%20completarla%20una%20vez.%22%2C%22msgSaveAuto%22%3A%22Tu%20puntuaci%F3n%20se%20guardar%E1%20autom%E1ticamente%20despu%E9s%20de%20cada%20cambio.%22%2C%22msgSeveralScore%22%3A%22Puede%20guardar%20la%20puntuaci%F3n%20tantas%20veces%20como%20quiera%22%2C%22msgYouLastScore%22%3A%22La%20%FAltima%20puntuaci%F3n%20guardada%20es%22%2C%22msgActityComply%22%3A%22Ya%20ha%20realizado%20esta%20actividad.%22%2C%22msgPlaySeveralTimes%22%3A%22Puede%20realizar%20esta%20actividad%20cuantas%20veces%20quiera%22%2C%22msgScore%22%3A%22Puntuaci%F3n%22%2C%22msgWeight%22%3A%22Peso%22%7D%2C%22isScorm%22%3A0%2C%22textButtonScorm%22%3A%22Guardar%20la%20puntuaci%F3n%22%2C%22repeatActivity%22%3Atrue%2C%22weighted%22%3A100%7D</div><ul class="exe-rubrics-strings"><li class="rubric">Rúbrica</li><li class="activity">Actividad</li><li class="name">Nombre</li><li class="date">Fecha</li><li class="score">Puntuación</li><li class="notes">Notas</li><li class="download">Descargar</li><li class="msgDelete">¿Seguro que desea borrar todos los campos del formulario?</li><li class="reset">Reiniciar</li><li class="print">Imprimir</li><li class="apply">Aplicar</li><li class="newWindow">Ventana nueva</li><li class="msgEndGameScore">Completa la rúbrica antes de guardar tu puntuación.</li><li class="msgScoreScorm">La puntuación no se puede guardar porque esta página no forma parte  de un paquete SCORM.</li><li class="msgOnlySaveScore">¡Solo puede guardar la puntuación una vez!</li><li class="msgYouScore">Su puntuación</li><li class="msgOnlySaveAuto">Tu puntuación se guardará después de cada cambio. Solo puedes completarla una vez.</li><li class="msgSaveAuto">Tu puntuación se guardará automáticamente después de cada cambio.</li><li class="msgSeveralScore">Puede guardar la puntuación tantas veces como quiera</li><li class="msgYouLastScore">La última puntuación guardada es</li><li class="msgActityComply">Ya ha realizado esta actividad.</li><li class="msgPlaySeveralTimes">Puede realizar esta actividad cuantas veces quiera</li><li class="msgScore">Puntuación</li><li class="msgWeight">Peso</li></ul></div><div class="exe-rubrics-richtext-data sr-av"><span class="exe-rubrics-instructions-data">%3Cp%3ECompleta%20la%20siguiente%20r%FAbrica%3C/p%3E</span><span class="exe-rubrics-text-after-data"></span></div></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcoxd-h50me3nya</odePageId>
+      <odeBlockId>block-1778608526625-m0k0xrm3c</odeBlockId>
+      <blockName>Cuestionario de autoevaluación</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcoxd-h50me3nya</odePageId>
+          <odeBlockId>block-1778608526625-m0k0xrm3c</odeBlockId>
+          <odeIdeviceId>idevice-1778608526623-bm4garwrb</odeIdeviceId>
+          <odeIdeviceTypeName>external-website</odeIdeviceTypeName>
+          <htmlView><![CDATA[      <div id="iframeWebsiteIdevice">       <iframe src="https://forms.gle/Hge96WUNc6vDx3u77" size="2" width="600" height="300" style="width:100%;">      </iframe>      <div class="iframe-error-message" style="display:none;">No se puede mostrar un iframe en HTTP en una web HTTPS.</div>       </div>      ]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcoxd-h50me3nya</odePageId>
+      <odeBlockId>block-1778608611878-t9nqbgknk</odeBlockId>
+      <blockName>¡Hay un mensaje para ti!</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcoxd-h50me3nya</odePageId>
+          <odeBlockId>block-1778608611878-t9nqbgknk</odeBlockId>
+          <odeIdeviceId>idevice-1778608611877-2i4ulathm</odeIdeviceId>
+          <odeIdeviceTypeName>udl-content</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-udlContent exe-udlContent-engagement"><section class="exe-udlContent-block js-hidden"><header class="exe-udlContent-header"><h2 style="display:none;">¡Misión cumplida!</h2></header><div class="exe-udlContent-content"><div class="exe-udlContent-content-main"><p>¡Enhorabuena, Guardián! Has completado todas las misiones. Tu esfuerzo ayudará a que muchas personas aprendan a cuidar el agua. ¡Eres un héroe del planeta!</p></div></div></section></div>]]></htmlView>
+          <jsonProperties></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcoxd-h50me3nya</odePageId>
+      <odeBlockId>block-1778608682910-6ofopy32p</odeBlockId>
+      <blockName>Derechos de autor</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcoxd-h50me3nya</odePageId>
+          <odeBlockId>block-1778608682910-6ofopy32p</odeBlockId>
+          <odeIdeviceId>idevice-1778608682909-yzoohs4ak</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>Instrumentos de evaluación creados por Noelia Bohórquez Aguilar con Google Forms y eXeLearning.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778608682909-yzoohs4ak","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Instrumentos de evaluación creados por Noelia Bohórquez Aguilar con Google Forms y eXeLearning.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mp2xcoxe-k2ku4bxlc</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mp2xcoxe-k2ku4bxlc</odePageId>
+      <odeBlockId>block-1778608795145-1mmhkvvfp</odeBlockId>
+      <blockName>Créditos del Proyecto</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcoxe-k2ku4bxlc</odePageId>
+          <odeBlockId>block-1778608795145-1mmhkvvfp</odeBlockId>
+          <odeIdeviceId>idevice-1778608795143-eudww8qnm</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li>Autoría: Noelia Bohórquez Aguilar<br /></li>
+<li>Título del Proyecto: "Guardianes del Agua: Cuidamos nuestro patrimonio natural."<br /></li>
+<li>Nivel Educativo: 3º de Educación Primaria.<br /></li>
+<li>Área: Conocimiento del Medio Natural, Social y Cultural.<br /></li>
+<li>Descripción: Situación de Aprendizaje diseñada para fomentar el ahorro de agua y la competencia digital, integrando herramientas de curación de contenidos (Padlet) y creación multimedia (Canva).</li>
+</ul>
+<p><strong><span style="color: #000000;">Licencia de uso</span></strong><br />Este material se publica bajo una licencia Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778608795143-eudww8qnm","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li>Autoría: Noelia Bohórquez Aguilar<br /></li>\n<li>Título del Proyecto: \"Guardianes del Agua: Cuidamos nuestro patrimonio natural.\"<br /></li>\n<li>Nivel Educativo: 3º de Educación Primaria.<br /></li>\n<li>Área: Conocimiento del Medio Natural, Social y Cultural.<br /></li>\n<li>Descripción: Situación de Aprendizaje diseñada para fomentar el ahorro de agua y la competencia digital, integrando herramientas de curación de contenidos (Padlet) y creación multimedia (Canva).</li>\n</ul>\n<p><strong><span style=\"color: #000000;\">Licencia de uso</span></strong><br />Este material se publica bajo una licencia Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0).</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mp2xcoxe-k2ku4bxlc</odePageId>
+      <odeBlockId>block-1778608975189-gitlcilbi</odeBlockId>
+      <blockName>Fuentes</blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mp2xcoxe-k2ku4bxlc</odePageId>
+          <odeBlockId>block-1778608975189-gitlcilbi</odeBlockId>
+          <odeIdeviceId>idevice-1778608975187-4j7fn1lya</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <ul>
+<li><strong>Herramientas:</strong> Padlet, Canva for Education, Google Forms y eXeLearning 3.<br /></li>
+<li><strong>Imágenes:</strong> Procedentes de bancos de imágenes gratuitos (Pixabay) bajo su propia licencia de uso gratuito y/o licencias Creative Commons CC0.</li>
+<li><strong><strong>Vídeo: </strong></strong>
+<p></p>
+<p>- <strong>Título:</strong> Protección de datos para niños.<br />- <strong>Autor:</strong> Infoem (Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios).<br />- <strong>Fuente:</strong> YouTube.<br />- <strong>Licencia:</strong> Licencia estándar de YouTube.</p>
+</li>
+</ul>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778608975187-4j7fn1lya","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<ul>\n<li><strong>Herramientas:</strong> Padlet, Canva for Education, Google Forms y eXeLearning 3.<br /></li>\n<li><strong>Imágenes:</strong> Procedentes de bancos de imágenes gratuitos (Pixabay) bajo su propia licencia de uso gratuito y/o licencias Creative Commons CC0.</li>\n<li><strong><strong>Vídeo: </strong></strong>\n<p></p>\n<p>- <strong>Título:</strong> Protección de datos para niños.<br />- <strong>Autor:</strong> Infoem (Instituto de Transparencia, Acceso a la Información Pública y Protección de Datos Personales del Estado de México y Municipios).<br />- <strong>Fuente:</strong> YouTube.<br />- <strong>Licencia:</strong> Licencia estándar de YouTube.</p>\n</li>\n</ul>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
